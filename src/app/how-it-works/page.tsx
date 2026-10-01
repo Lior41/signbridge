@@ -45,6 +45,8 @@ export default function Page() {
         This prototype is not suitable for medical, legal, emergency or other high-stakes
         interpreting.
       </p>
+      <h2>Inspect the work</h2>
+      <p><a href="https://github.com/Lior41/signbridge">Source code</a> · <a href="https://github.com/Lior41/signbridge/tree/main/tests">Tests</a> · <a href="https://github.com/Lior41/signbridge/actions">Verification runs</a> · <Link href="/demo-video">Captioned walkthrough</Link></p>
       <Link className="button primary" href="/studio">
         Explore the prototype ↗
       </Link>
