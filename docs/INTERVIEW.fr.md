@@ -1,5 +1,7 @@
 # Préparer un entretien — SIGNBRIDGE
 
+[Regarder l’explication en français](../public/demo/walkthrough-fr.mp4) · [Lire son texte](../public/demo/walkthrough-fr.txt). Montage de captures réelles, avec explications intégrées, sans piste audio.
+
 ## Présentation d’environ trois minutes
 
 SIGNBRIDGE est un prototype de recherche pour une communication assistée en langue des signes américaine, l’ASL. Je commence par sa limite principale : cette version ne reconnaît pas encore de signes et ne génère pas de réponse vidéo. Elle rend utilisable et testable le parcours qui entourerait un futur modèle validé.
