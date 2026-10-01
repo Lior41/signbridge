@@ -6,6 +6,8 @@
 
 ![Actual application screenshot](docs/screenshots/home.png)
 
+Watch the [permanent Project Room](https://lior-labspace.vercel.app/project-room): all three projects, English and French, with playback controls, downloadable MP4 files and readable transcripts. It does not require a local server.
+
 ## Overview
 
 An accessibility-focused research interface for a future ASL communication assistant. This release supports local video preview and a clearly labelled confirmation-and-correction walkthrough. **It does not recognize ASL or produce signed video replies yet.**
