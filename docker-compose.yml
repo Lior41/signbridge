@@ -1,0 +1,7 @@
+services:
+  app:
+    build: .
+    ports: ["3051:3051"]
+    environment:
+      APP_ORIGIN: http://localhost:3051
+      AI_ENABLED: "false"
